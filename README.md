@@ -12,7 +12,7 @@ Back-end ve Veritabanı Yönetimi Alanında kendimi geliştirmekteyim. Öğrenme
 
 ### 🔧 Kullandığım Diller, Programlar ve İşletim Sistemleri:
 
-
+<a href="https://github.com/ridvansagdic">
 <img align="left" alt="js" width="32px" src="https://freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png" />
 <img align="left" alt="js" width="32px" src="https://www.pardus.org.tr/wp-content/uploads/2019/08/Pardus-04.png" />
 <img align="left" alt="js" width="32px" src="https://preview.redd.it/ne6ukkej06t71.png?auto=webp&s=fbdc1cb1d60306fba3098f7b75a8e01812a97ada" />
@@ -33,7 +33,7 @@ Back-end ve Veritabanı Yönetimi Alanında kendimi geliştirmekteyim. Öğrenme
 <img align="left" alt="php" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
 <img align="left" alt="HTML" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />
-<img align="left" alt="js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" /> <br> <br> 
+<img align="left" alt="js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" /> <br> <br> </a>
 
 ## İletişim Bilgilerim<br>
 [![linkedin](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ridvansagdic.iletisim@gmail.com)
