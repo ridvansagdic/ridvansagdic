@@ -8,7 +8,7 @@ Back-end ve Veritabanı Yönetimi Alanında kendimi geliştirmekteyim. Öğrenme
 
 - 🔭 şu anda C# ve MySQL üzerinde çalışıyorum
 - 🌱 şu anda JAVA öğreniyorum
-- ⚡ Kurumsal Veritabanları ile ilgili deneyim edinmek istiyorum
+- ⚡ Kurumsal Veritabanlarının Yönetimleri ile ilgili deneyim arıyorum
 
 ### 🔧 Kullandığım Diller, Programlar ve İşletim Sistemleri:
 
