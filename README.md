@@ -20,8 +20,8 @@ Back-end ve Veritabanı Yönetimi Alanında kendimi geliştirmekteyim. Öğrenme
 <img align="left" alt="Visual Studio" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/64px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android Studio" width="32px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" />
-<img align="left" alt="Access" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/800px-Microsoft_Office_Access_%282019-present%29.svg.png" />
-<img align="left" alt="AWS" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/800px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png"
+<img align="left" alt="Access" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/800px-Microsoft_Office_Access_%282019-present%29.svg.png" />
+<img align="left" alt="AWS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/800px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png"
 " />
 
 
