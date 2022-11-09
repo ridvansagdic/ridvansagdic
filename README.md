@@ -21,7 +21,8 @@ Back-end ve Veritabanı Yönetimi Alanında kendimi geliştirmekteyim. Öğrenme
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android Studio" width="32px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" />
 <img align="left" alt="Oracle" width="52px" src="https://accelerationeconomy.com/wp-content/uploads/2021/06/Oracle-Logo.png" />
-
+<img align="left" alt="Oracle" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/800px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png
+" />
 
 
 <img align="left" alt="MySQL" width="32px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" />
