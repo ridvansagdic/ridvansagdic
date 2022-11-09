@@ -32,10 +32,10 @@ Back-end ve Veritabanı Yönetimi Alanında kendimi geliştirmekteyim. Öğrenme
 
 <img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 <img align="left" alt="php" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-<img align="left" alt="js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
+
 <img align="left" alt="HTML" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />
- /> <br> <br> </a>
+<img align="left" alt="js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" /> <br> <br> </a>
 
 ## İletişim Bilgilerim<br>
 [![linkedin](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ridvansagdic.iletisim@gmail.com)
