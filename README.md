@@ -69,7 +69,7 @@ Back-end ve Veritabanı Yönetimi Alanında kendimi geliştirmekteyim. Öğrenme
 <a href="https://www.javascript.com/">
 <img align="left" alt="js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" /> <br> <br> </a>
 
-<br> <br>
+<br> <br><br>
 ## İletişim Bilgilerim<br>
 [![linkedin](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ridvansagdic.iletisim@gmail.com)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ridvansagdic/)
