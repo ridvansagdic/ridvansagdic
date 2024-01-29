@@ -4,14 +4,14 @@ Afyon Kocatepe Üniversitesi Bilgisayar Programcılığı mezunuyum.
 Back-end ve Veritabanı Yönetimi Alanında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri yakından takip ediyorum. <br>
 
 
-- 🔭 şu anda Node.Js üzerinde çalışıyorum
-- 🌱 şu anda Node.Js öğreniyorum
-- ⚡ yazılım geliştiricisi olarak deneyim arıyorum<br><br>
+- 🔭 Şu anda Node.Js & React-Native üzerinde çalışıyorum
+- 🌱 Şu anda React-Native öğreniyorum
+- ⚡ Yazılım Geliştiricisi olarak deneyim arıyorum<br><br>
 
 ## 🌐 İletişim Bilgilerim<br>
 [![linkedin](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ridvansagdic.dev@gmail.com)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ridvansagdic/)
-[![linkedin](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ridvan_sagdic)
+<!-->[![linkedin](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ridvan_sagdic)
 <br><br>
 
 ## 💻 Kullandığım Teknolojiler:
